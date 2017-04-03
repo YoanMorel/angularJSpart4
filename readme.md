@@ -11,3 +11,9 @@ Faire une page HTML permettant d'afficher la liste des voitures et leur couleur 
 
 # Exercice 4
 Faire une page HTML permettant d'afficher la liste des voitures et leur couleur du fichier voiture.json uniquement si la couleur n'est pas verte.
+
+# Exercice 5
+Faire une page HTML contenant un bouton Afficher et un bouton Cacher. Au clic sur l'un ou sur l'autre afficher ou non un paragraphe de votre choix.
+
+# Exercice 6
+Faire une page HTML contenant deux paragrahes et deux boutons. Au clic sur le premier uniquement le paragrahe 1 doit être visible. Au clic sur le bouton deux, seulement le paragrahe 2 doit aparaître. 
